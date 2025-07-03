@@ -1,5 +1,3 @@
-C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\obj\Debug\ApiProyecto.csproj.AssemblyReference.cache
-C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\obj\Debug\ApiProyecto.csproj.CoreCompileInputs.cache
 C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\bin\ApiProyecto.dll.config
 C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\bin\ApiProyecto.dll
 C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\bin\ApiProyecto.pdb
@@ -85,6 +83,8 @@ C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\bin\Microsoft.CodeDom.Provid
 C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\bin\es\System.Net.Http.Formatting.resources.dll
 C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\bin\es\System.Web.Http.resources.dll
 C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\obj\Debug\ApiProyecto.csproj.AssemblyReference.cache
+C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\obj\Debug\ApiProyecto.csproj.CoreCompileInputs.cache
 C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\obj\Debug\ApiProye.F91EDEA4.Up2Date
 C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\obj\Debug\ApiProyecto.dll
 C:\Users\manue\source\repos\ApiProyecto\ApiProyecto\obj\Debug\ApiProyecto.pdb

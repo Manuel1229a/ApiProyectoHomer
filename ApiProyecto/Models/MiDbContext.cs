@@ -10,9 +10,13 @@ namespace ApiProyecto.Models
     {
         public MiDbContext() : base("DefaultConnection")
         {
+            this.Configuration.LazyLoadingEnabled = false;
+
+            Database.SetInitializer<MiDbContext>(null);
         }
 
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Tarea> Tareas { get; set; }
+
     }
 }

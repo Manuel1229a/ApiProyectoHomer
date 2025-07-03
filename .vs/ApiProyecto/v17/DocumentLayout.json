@@ -7,24 +7,20 @@
       "RelativeMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|C:\\Users\\manue\\source\\repos\\ApiProyecto\\apiproyecto\\models\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|c:\\users\\manue\\source\\repos\\apiproyecto\\apiproyecto\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|C:\\Users\\manue\\source\\repos\\ApiProyecto\\apiproyecto\\global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}",
-      "RelativeMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\global.asax||{4D30FDB3-AB3E-4810-B6F2-64627BCCA384}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|C:\\Users\\manue\\source\\repos\\ApiProyecto\\apiproyecto\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|C:\\Users\\manue\\source\\repos\\ApiProyecto\\apiproyecto\\models\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\midbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|C:\\Users\\manue\\source\\repos\\ApiProyecto\\apiproyecto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|C:\\Users\\manue\\source\\repos\\ApiProyecto\\apiproyecto\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|solutionrelative:apiproyecto\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4F6DB9A-54A0-4404-AE50-EFEFC9898F9F}|ApiProyecto\\ApiProyecto.csproj|C:\\Users\\manue\\source\\repos\\ApiProyecto\\apiproyecto\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,25 +66,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Global.asax",
-              "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\ApiProyecto\\ApiProyecto\\Global.asax",
-              "RelativeDocumentMoniker": "ApiProyecto\\Global.asax",
-              "ToolTip": "C:\\Users\\manue\\source\\repos\\ApiProyecto\\ApiProyecto\\Global.asax",
-              "RelativeToolTip": "ApiProyecto\\Global.asax",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000179|",
-              "WhenOpened": "2025-07-03T06:35:19.354Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TareasController.cs",
               "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\ApiProyecto\\ApiProyecto\\Controllers\\TareasController.cs",
               "RelativeDocumentMoniker": "ApiProyecto\\Controllers\\TareasController.cs",
               "ToolTip": "C:\\Users\\manue\\source\\repos\\ApiProyecto\\ApiProyecto\\Controllers\\TareasController.cs",
               "RelativeToolTip": "ApiProyecto\\Controllers\\TareasController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T04:38:47.599Z",
               "EditorCaption": ""
@@ -108,45 +92,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MiDbContext.cs",
               "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\ApiProyecto\\ApiProyecto\\Models\\MiDbContext.cs",
               "RelativeDocumentMoniker": "ApiProyecto\\Models\\MiDbContext.cs",
               "ToolTip": "C:\\Users\\manue\\source\\repos\\ApiProyecto\\ApiProyecto\\Models\\MiDbContext.cs",
               "RelativeToolTip": "ApiProyecto\\Models\\MiDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T04:33:27.874Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Tarea.cs",
               "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\ApiProyecto\\ApiProyecto\\Models\\Tarea.cs",
               "RelativeDocumentMoniker": "ApiProyecto\\Models\\Tarea.cs",
               "ToolTip": "C:\\Users\\manue\\source\\repos\\ApiProyecto\\ApiProyecto\\Models\\Tarea.cs",
               "RelativeToolTip": "ApiProyecto\\Models\\Tarea.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-03T04:31:51.453Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\ApiProyecto\\ApiProyecto\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "ApiProyecto\\Models\\Usuario.cs",
               "ToolTip": "C:\\Users\\manue\\source\\repos\\ApiProyecto\\ApiProyecto\\Models\\Usuario.cs",
               "RelativeToolTip": "ApiProyecto\\Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T04:29:49.617Z"
+              "WhenOpened": "2025-07-03T04:29:49.617Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "WebApiConfig.cs",
               "DocumentMoniker": "C:\\Users\\manue\\source\\repos\\ApiProyecto\\ApiProyecto\\App_Start\\WebApiConfig.cs",
               "RelativeDocumentMoniker": "ApiProyecto\\App_Start\\WebApiConfig.cs",
@@ -154,7 +139,8 @@
               "RelativeToolTip": "ApiProyecto\\App_Start\\WebApiConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T03:46:20.881Z"
+              "WhenOpened": "2025-07-03T03:46:20.881Z",
+              "EditorCaption": ""
             }
           ]
         }

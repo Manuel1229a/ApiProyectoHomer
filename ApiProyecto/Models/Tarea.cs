@@ -3,9 +3,11 @@ using System.Collections.Generic;
 using System.EnterpriseServices.Internal;
 using System.Linq;
 using System.Web;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ApiProyecto.Models
 {
+    [Table("Tarea")]
     public class Tarea
     {
         public int TareaId { get; set; }
