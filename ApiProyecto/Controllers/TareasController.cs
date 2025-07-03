@@ -1,6 +1,7 @@
 ﻿using ApiProyecto.Models;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity.Infrastructure;
 using System.Linq;
 using System.Web.Http;
 
@@ -28,17 +29,26 @@ namespace ApiProyecto.Controllers
         }
 
         // POST: Tareas
+        [HttpPost]
         public IHttpActionResult Post([FromBody] Tarea tarea)
         {
             if (!ModelState.IsValid)
-            {
                 return BadRequest(ModelState);
+
+            tarea.FechaCreacion = DateTime.Now;
+
+            try
+            {
+                db.Tareas.Add(tarea);
+                db.SaveChanges();
+                return Ok(tarea);
             }
-            tarea.FechaCreacion = DateTime.Now; // Asignar fecha de creación actual
-            db.Tareas.Add(tarea);
-            db.SaveChanges();
-            return Ok(tarea);
+            catch (DbUpdateException dbEx)
+            {
+                return InternalServerError(dbEx.InnerException?.InnerException ?? dbEx);
+            }
         }
+
 
         // PUT: Tareas
         public IHttpActionResult Put(int id, [FromBody] Tarea tarea)

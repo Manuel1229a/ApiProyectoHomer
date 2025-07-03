@@ -13,7 +13,7 @@ namespace ApiProyecto.Models
         public string Descripcion { get; set; }
         public DateTime FechaCreacion { get; set; }
         public DateTime FechaVencimiento { get; set; }
-        public bool Estado { get; set; }
+        public string Estado { get; set; }
         public int UsuarioId { get; set; }
         public virtual Usuario Usuario { get; set; } // Relación con Usuario
     }
